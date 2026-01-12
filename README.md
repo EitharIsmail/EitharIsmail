@@ -1,7 +1,8 @@
 ## 👋 Eithar Moutasim
 
 **AI Researcher**
-🧪 I am building projects that span AI, neuroscience and healthcare.
+
+🧪 Building projects that span AI, neuroscience and healthcare.
 <!--
 **EitharIsmail/EitharIsmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
