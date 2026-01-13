@@ -2,7 +2,7 @@
 
 **AI Researcher**
 
-** 🧪 Building projects that span AI, neuroscience and healthcare. **
+**🧪 Building projects that span AI, neuroscience and healthcare.**
 
 
 🧠 What I’m Currently Exploring
