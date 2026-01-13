@@ -14,7 +14,7 @@
 
 
 
-🛠️ Technical Toolkit
+##🛠️ Technical Toolkit
 
 Languages & Tools
 
@@ -30,7 +30,7 @@ Git (Version control basics)
 
 
 
-Areas of Interest
+## Areas of Interest
 
 Data Analysis & Business Intelligence
 
@@ -41,7 +41,7 @@ Customer & User Behavior Analytics
 Cross-functional Collaboration & Stakeholder Communication
 
 
-📌 Featured Projects
+## 📌 Featured Projects
 🔹 SQL Explained in Arabic (LinkedIn Series)
 A beginner-friendly tutorial series in Arabic to help others learn SQL fundamentals and practical querying techniques.
 Tools: SQL, LinkedIn Articles
@@ -58,7 +58,7 @@ Tools: Data Collection, Reporting, Python
 Coordinated speaker teams and schedules for large conferences, managing data flow and solving real-time logistical challenges.
 Tools: Team Coordination, Scheduling, Problem-Solving
 
-📚 Continuous Learning
+## 📚 Continuous Learning
 I’m currently focusing on leanring AI basic and apply it in real worlds problems
 
 Recent Certifications:
