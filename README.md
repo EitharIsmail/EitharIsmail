@@ -2,15 +2,16 @@
 
 **AI Researcher**
 
-🧪 Building projects that span AI, neuroscience and healthcare.
+** 🧪 Building projects that span AI, neuroscience and healthcare. **
+
 
 🧠 What I’m Currently Exploring
 
-🧠 Machine Learning & AI – deepening my understanding of algorithms, neural networks, and AI applications
+Machine Learning & AI – deepening my understanding of algorithms, neural networks, and AI applications
 
-📊 Data Engineering & BI – building end-to-end data pipelines and interactive dashboards
+Data Engineering & BI – building end-to-end data pipelines and interactive dashboards
 
-🧩 Brain-Computer Interface (BCI) & Neuro-AI – exploring the exciting fusion of neuroscience and artificial intelligence
+Brain-Computer Interface (BCI) & Neuro-AI – exploring the exciting fusion of neuroscience and artificial intelligence
 
 
 ## 🛠️ Technical Toolkit
