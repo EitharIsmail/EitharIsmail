@@ -13,8 +13,7 @@
 🧩 Brain-Computer Interface (BCI) & Neuro-AI – exploring the exciting fusion of neuroscience and artificial intelligence
 
 
-
-##🛠️ Technical Toolkit
+## 🛠️ Technical Toolkit
 
 Languages & Tools
 
