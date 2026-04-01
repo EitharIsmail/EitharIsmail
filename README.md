@@ -1,5 +1,20 @@
 ## 👋 Eithar Moutasim
 
+Readme · MD
+Copy
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Eithar+Ismail+%F0%9F%91%8B;Junior+AI+Researcher+%7C+Master%27s+Student+%40+UM;Building+AI+from+Scratch+with+SAIR)](https://github.com/EitharIsmail)
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/your-linkedin/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gamareithar@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/EitharIsmail?style=for-the-badge&logo=github&label=Follow&color=0D1117&labelColor=0D1117&logoColor=white)](https://github.com/EitharIsmail)
+ 
+[![Location](https://img.shields.io/badge/📍_Kuala_Lumpur,_Malaysia-0D1117?style=flat-square&logoColor=white)](https://github.com/EitharIsmail)
+[![SAIR](https://img.shields.io/badge/🤖_Learning_@_SAIR-0D1117?style=flat-square&logoColor=white)](https://github.com/SAIR-Org)
+[![Status](https://img.shields.io/badge/📖_Master's_of_AI_@_Universiti_Malaya-0D1117?style=flat-square&logoColor=white)](https://github.com/EitharIsmail)
+
+
 **AI Researcher/Engineer**
 
 ---
