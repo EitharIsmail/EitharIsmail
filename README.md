@@ -6,7 +6,6 @@
 [![GitHub](https://img.shields.io/github/followers/EitharIsmail?style=for-the-badge&logo=github&label=Follow&color=0D1117&labelColor=0D1117&logoColor=white)](https://github.com/EitharIsmail)
  
 [![SAIR](https://img.shields.io/badge/🤖_Learning_@_SAIR-0D1117?style=flat-square&logoColor=white)](https://github.com/SAIR-Org)
-[![Status](https://img.shields.io/badge/📖_Master's_of_AI_@_Universiti_Malaya-0D1117?style=flat-square&logoColor=white)](https://github.com/EitharIsmail)
 
 ---
 
