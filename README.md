@@ -96,7 +96,7 @@ My background spans data analysis, business intelligence, and customer insights 
 *Data analyst background meets AI research ambition. I document my learning openly so others can follow the same path.*
  
 [![Email](https://img.shields.io/badge/✉️_gamareithar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamareithar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/eithar-ismail))
 
  ---
 ---
