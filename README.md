@@ -1,87 +1,103 @@
 ## 👋 Eithar Moutasim
 
-**AI Researcher**
+**AI Researcher/Engineer**
 
-**🧪 Building projects that span AI, neuroscience and healthcare.**
+---
 
+## ⚡ Who I Am
 
-🧠 What I’m Currently Exploring
+I'm a Junior AI Researcher and Master's student in AI at Universiti Malaya, currently going deep on building AI systems from first principles through SAIR (Sudanese AI Research Organization).
 
-Machine Learning & AI – deepening my understanding of algorithms, neural networks, and AI applications
+My background spans data analysis, business intelligence, and customer insights — and I'm now bridging that experience into the world of deep learning, computer vision, and neural networks.
 
-Data Engineering & BI – building end-to-end data pipelines and interactive dashboards
+"I learn by building. From SQL dashboards to neural nets from scratch — I make things to understand them."
 
-Brain-Computer Interface (BCI) & Neuro-AI – exploring the exciting fusion of neuroscience and artificial intelligence
+---
+ 
+## 🎯 Currently Learning @ SAIR
+```
+🐍 Python          → Solid foundations: NumPy, Pandas, Matplotlib
+🔥 PyTorch         → Tensors, autograd, training loops
+🧠 Neural Networks → Built from scratch — no shortcuts
+🖼️ CNNs            → Convolutional layers, pooling, image classification
+👁️ YOLO            → Object detection — built and deployed my own pipeline
+```
 
+---
+ 
+## 🛠️ Technical Skills
+ 
+| Domain | Stack |
+|---|---|
+| **AI & Deep Learning** | PyTorch · Scikit-learn · CNNs · Neural Nets from Scratch · YOLO |
+| **Data & BI** | SQL · Power BI · Excel · Pandas · Matplotlib · EDA · Data Cleaning |
+| **MLOps (learning)** | MLflow · Git |
+| **Programming** | Python (intermediate) |
+| **Languages** | Arabic (Native) · English (Fluent — IELTS 7.5) |
+ 
+---
 
-## 🛠️ Technical Toolkit
+## 💼 Experience
+ 
+### 📊 Call Center Agent / Customer Data Analyst · Bloom Financial Technology (YC W22) `2022 – 2023`
+ 
+* Prepared and presented **4 monthly reports** to a 13-person team — insights led to critical changes in app UX
+* Wrote SQL queries to extract transaction data and built dashboards for business decision-making
+* Onboarded **200+ customers/day** via the KYC process
+* Managed a team of 4 for 1 month
+* Produced a product explainer video distributed across **19 bank branches**
+ 
+### 🎤 Speakers Team Coordinator · IEEE Sudan `2021` *(Volunteer)*
+ 
+* Screened 50 applicants → shortlisted 20 → selected and trained a team of 8
+* Prepared 45 detailed conference schedules covering rooms, sessions, and presentations
+ 
+### 🗂️ Data Collector · Community Services through IT `2021`
+ 
+* Interviewed 40 school girls about educational barriers in rural communities
+* Delivered a report with findings and proposed technical solutions
+ 
+---
+ 
+## 🔬 Education
+ 
+| Degree | Institution | Year |
+|---|---|---|
+| 🎓 **B.Sc. (Hons)** — Information Technology · CGPA 3.35 | University of Khartoum (#1 in Sudan) | 2014 – 2021 |
+ 
+---
 
-Languages & Tools
+## 📜 Certifications
+ 
+* 📊 Data Visualization in Power BI — DataCamp *(Feb 2025)*
+* 🗃️ SQL for BI — DataCamp *(Nov 2024)*
+* 🤖 AI Bootcamp 2024 — Google DSC × University of Khartoum *(Jun 2024)*
+ 
+---
 
-SQL (Data analysis, reporting, BI)
+ 
+## 📊 GitHub Stats
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EitharIsmail&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EitharIsmail&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+ 
+---
 
-Python (Pandas, Matplotlib, EDA, data cleaning)
+ 
+## 🔭 Currently
+ 
+* 🏗️ **Building** — Deep learning projects: CNNs, object detection with YOLO, NNs from scratch
+* 🤝 **Open to** — Research collaborations · AI internships · Data roles
+ 
+---
 
-Power BI (Dashboards, data visualization)
+## 📬 Let's Connect
+ 
+*Data analyst background meets AI research ambition. I document my learning openly so others can follow the same path.*
+ 
+[![Email](https://img.shields.io/badge/✉️_gamareithar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamareithar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 
-Microsoft Excel (Advanced reporting)
+ ---
+---
 
-Git (Version control basics)
-
-
-
-## Areas of Interest
-
-Data Analysis & Business Intelligence
-
-AI Model Development & Interpretation
-
-Customer & User Behavior Analytics
-
-Cross-functional Collaboration & Stakeholder Communication
-
-
-## 📌 Featured Projects
-🔹 SQL Explained in Arabic (LinkedIn Series)
-A beginner-friendly tutorial series in Arabic to help others learn SQL fundamentals and practical querying techniques.
-Tools: SQL, LinkedIn Articles
-
-🔹 Customer Insights & Reporting System
-Developed monthly customer issue reports using SQL and Power BI, leading to app improvements based on user feedback.
-Tools: SQL, Power BI, Data Visualization
-
-🔹 Data Collection & Social Impact Analysis
-Conducted interviews and prepared data-driven reports on educational challenges, proposing tech-based solutions for community improvement.
-Tools: Data Collection, Reporting, Python
-
-🔹 Event Management & Data Coordination
-Coordinated speaker teams and schedules for large conferences, managing data flow and solving real-time logistical challenges.
-Tools: Team Coordination, Scheduling, Problem-Solving
-
-## 📚 Continuous Learning
-I’m currently focusing on leanring AI basic and apply it in real worlds problems
-
-Recent Certifications:
-
-Data Visualization in Power BI (DataCamp, 2025)
-
-SQL for Business Intelligence (DataCamp, 2024)
-
-Google AI Bootcamp (2024)
-
-
-
-<!--
-**EitharIsmail/EitharIsmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
