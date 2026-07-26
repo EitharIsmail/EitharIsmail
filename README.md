@@ -11,7 +11,7 @@
 
 ## ⚡ Who I Am
 
-I'm a Junior AI Researcher and Master's student in AI at Universiti Malaya, currently going deep on building AI systems from first principles through SAIR (Sudanese AI Research Organization).
+I'm a Junior AI Researcher and Engineer, currently going deep on building AI systems from first principles through SAIR (Sudanese AI Research Organization).
 
 My background spans data analysis, business intelligence, and customer insights — and I'm now bridging that experience into the world of deep learning, computer vision, and neural networks.
 
