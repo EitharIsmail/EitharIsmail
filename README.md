@@ -15,8 +15,6 @@ I'm a Junior AI Researcher and Engineer, currently going deep on building AI sys
 
 My background spans data analysis, business intelligence, and customer insights — and I'm now bridging that experience into the world of deep learning, computer vision, and neural networks.
 
-"I learn by building. From SQL dashboards to neural nets from scratch — I make things to understand them."
-
 ---
  
 ## 🎯 Currently Learning @ SAIR
